@@ -1,0 +1,29 @@
+Privacy policy
+
+General
+
+Decent Call Blocker Pro is developed by one main developer, with a few people helping from time to time, mostly with translations.
+
+Privacy Policy ("Policy") describes how information obtained from users is collected, used and disclosed.
+
+By using Decent Call Blocker Pro, you agree that your personal information will be handled as described in this Policy.
+
+Information being collected
+
+Decent Call Blocker Pro does not collect any personal identifiable information.
+
+The 'Read Contacts' permission is used for accessing the specific Contacts from your phone, that you want to block number on device.
+The 'Read  Phone State' permission is used for checking/trigger the incomming calls so that can be blocked through  this app.
+The 'Phone Call' permission will check the phone number of incomming calls to match it with blocked number.
+The 'Modify  Phone State' permission is used for changing the state of incomming calls so that can be blocked through this app.
+
+
+Changes to the Policy
+
+If the Policy changes, the modification date below will be updated. The Policy may change from time to time, so please be sure to check back periodically.
+
+Last modified: 17 May, 2018.
+
+Contact
+
+If you have any questions about the Policy, please contact me via virtualsofttechnologies@gmail.com.
